@@ -1,0 +1,6 @@
+{
+  "name": "Alex Morgan — Accessible HTML5 Portfolio",
+  "description": "A high-performance personal portfolio adhering strictly to HTML5 semantic landmarks, WCAG 2.2 AAA accessibility, screen reader optimizations, and SEO best practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
